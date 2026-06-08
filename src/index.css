@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Custom terminal print configurations so dossier exports look like formal papers */
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  nav, footer, select, input, button {
+    display: none !important;
+  }
+  aside {
+    border: none !important;
+  }
+}

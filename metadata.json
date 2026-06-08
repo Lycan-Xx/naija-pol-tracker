@@ -1,0 +1,8 @@
+{
+  "name": "PolitiTrace",
+  "description": "A terminal-inspired, source-grounded intelligence dashboard for auditing and researching Nigerian political careers, legal records, and electoral histories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
