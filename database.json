@@ -1,0 +1,770 @@
+{
+  "politicians": [
+    {
+      "id": "tinubu-bola-ahmed",
+      "fullName": "Bola Ahmed Tinubu",
+      "aliases": [
+        "Jagaban",
+        "Asiwaju"
+      ],
+      "photoUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuAZsrFh9ziH43Nmt3WWwNpdwbm2Ce9j9VCxikVx1iu3uWsyrF-qQWzDANroWNGB51sAm7SuE92gI6EHYXRv-hvq-mfoUZbjOe9qaugc4koKTqU5cWLygWEtI7K7lfQNt_HJqhOyzYeiDp2zaSLuQeSiBxEPmlJucQ_tN3kynItPD9pBE7ECzXpdM2MCzt0HlQpLVUd2tbEY8iCJKVKyY1zF0V8UjoJf0C13o4fZovsO_dPleMMmmpXfqqEEg5j88GSl5RFbWEV5OrwU",
+      "birthDate": "1952-03-29",
+      "stateOfOrigin": "Lagos State",
+      "is_active": true,
+      "currentPosition": "President, Federal Republic of Nigeria",
+      "currentParty": "APC",
+      "bioNarrative": "Bola Ahmed Tinubu is the President of the Federal Republic of Nigeria, elected on 25 February 2023 and inaugurated on 29 May 2023. A long-time political figure, he previously served as Governor of Lagos State from 1999 to 2007. He was a prominent figure in the merger of opposition parties that formed the All Progressives Congress (APC) in 2013.",
+      "educationalBackground": [
+        {
+          "degree": "Bachelor of Science in Accounting",
+          "institution": "Chicago State University",
+          "year": "1979"
+        }
+      ],
+      "professionalBackground": [
+        {
+          "role": "Treasurer",
+          "organization": "Mobil Producing Nigeria",
+          "yearRange": "1983 - 1992"
+        },
+        {
+          "role": "Auditor",
+          "organization": "Arthur Andersen / GTE Services",
+          "yearRange": "1979 - 1983"
+        }
+      ],
+      "electoralHistory": [
+        {
+          "year": 2023,
+          "type": "Presidential",
+          "state": "National",
+          "party": "APC",
+          "result": "WON",
+          "votesReceived": 8794726,
+          "totalVotesCast": 24965218,
+          "wasChallenged": true,
+          "tribunalOutcome": "Supreme Court upheld the election on October 26, 2023.",
+          "sourceUrl": "https://inecnigeria.org/2023-presidential-election-official-results",
+          "sourceDate": "2023-03-01"
+        },
+        {
+          "year": 2003,
+          "type": "Gubernatorial",
+          "state": "Lagos State",
+          "party": "AD",
+          "result": "WON",
+          "votesReceived": 911612,
+          "wasChallenged": false,
+          "sourceUrl": "https://inecnigeria.org/lagos-2003-results",
+          "sourceDate": "2003-04-20"
+        },
+        {
+          "year": 1999,
+          "type": "Gubernatorial",
+          "state": "Lagos State",
+          "party": "AD",
+          "result": "WON",
+          "votesReceived": 841732,
+          "wasChallenged": false,
+          "sourceUrl": "https://inecnigeria.org/lagos-1999-results",
+          "sourceDate": "1999-01-10"
+        }
+      ],
+      "primaryHistory": [
+        {
+          "party": "APC",
+          "date": "2022-06-08",
+          "type": "Indirect",
+          "outcome": "WON",
+          "votesReceived": 1271,
+          "wasChallenged": false,
+          "wasSubstituted": false,
+          "sourceUrl": "https://apc.com.ng/primaries-2022"
+        }
+      ],
+      "partyHistory": [
+        {
+          "partyName": "All Progressives Congress",
+          "partyCode": "APC",
+          "fromYear": "2013",
+          "toYear": "Present",
+          "positionHeld": "National Leader & Presidential Candidate",
+          "sourceUrl": "https://apc.com.ng"
+        },
+        {
+          "partyName": "Action Congress of Nigeria",
+          "partyCode": "ACN",
+          "fromYear": "2006",
+          "toYear": "2013",
+          "positionHeld": "Leader",
+          "reasonForLeaving": "Merged to form APC",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Action_Congress_of_Nigeria"
+        },
+        {
+          "partyName": "Alliance for Democracy",
+          "partyCode": "AD",
+          "fromYear": "1998",
+          "toYear": "2006",
+          "positionHeld": "Gubernatorial Candidate / Leader",
+          "reasonForLeaving": "Left to form Action Congress",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Alliance_for_Democracy"
+        }
+      ],
+      "legislativeRecord": {
+        "sessionsAttended": 124,
+        "sessionsExpected": 140,
+        "billsPassed": 3,
+        "committeesList": [
+          "Finance",
+          "Appropriation",
+          "Foreign Affairs"
+        ],
+        "billsSponsored": [
+          {
+            "id": "sb-1992-01",
+            "title": "National Treasury Operations Amendment Bill",
+            "url": "https://nass.gov.ng"
+          }
+        ],
+        "sourceUrl": "https://nass.gov.ng/archives/1992-senate"
+      },
+      "legalRecord": [
+        {
+          "type": "efcc",
+          "title": "Investigation of Lagos State Accounts (1999-2007)",
+          "description": "EFCC queried financial transactions and revenue collection mechanisms instituted during governorship tenure.",
+          "courtOrAgency": "EFCC",
+          "dateInitiated": "2007-06-15",
+          "status": "resolved",
+          "outcomeDescription": "No charges successfully prosecuted in court; resolved without conviction.",
+          "sourceUrl": "https://efcc.gov.ng/archives/lagos",
+          "sourceDate": "2007-08-10",
+          "confidence": "Primary"
+        },
+        {
+          "type": "court",
+          "title": "Code of Conduct Tribunal Case on Assets declaration",
+          "description": "Accused of violating the Code of Conduct Bureau Act by keeping foreign bank accounts.",
+          "caseNumber": "CCT/LA/2011",
+          "courtOrAgency": "Code of Conduct Tribunal",
+          "dateInitiated": "2011-09-20",
+          "status": "dismissed",
+          "outcomeDescription": "Charges dismissed by the tribunal panel on technological and technical grounds regarding initial notification procedural lapses.",
+          "sourceUrl": "https://cct.gov.ng/judgments/tinubu",
+          "sourceDate": "2011-11-30",
+          "confidence": "Primary"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Vanguard News",
+          "url": "https://vanguardngr.com",
+          "dateAccessed": "2026-06-08",
+          "fieldsContributed": [
+            "Electoral history",
+            "Bio narrative"
+          ],
+          "confidence": "Secondary"
+        },
+        {
+          "name": "Independent National Electoral Commission",
+          "url": "https://inecnigeria.org",
+          "dateAccessed": "2026-06-08",
+          "fieldsContributed": [
+            "Electoral results"
+          ],
+          "confidence": "Primary"
+        },
+        {
+          "name": "Nigerian Senate Archive",
+          "url": "https://nass.gov.ng",
+          "dateAccessed": "2026-06-08",
+          "fieldsContributed": [
+            "Senaorship timeline"
+          ],
+          "confidence": "Primary"
+        }
+      ],
+      "completenessPercentage": 87,
+      "legalFlags": {
+        "efcc": true,
+        "sanctions": false,
+        "tribunal": true
+      },
+      "lastResearched": "2026-06-01"
+    },
+    {
+      "id": "tambuwal-aminu-wiri",
+      "fullName": "Aminu Waziri Tambuwal",
+      "aliases": [
+        "Speaker Emeritus"
+      ],
+      "photoUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuD7_qRPegRGU1e-CgdLUAme7pNyWfJ-NM6zaHMRumZNxBilyouKejtKGENYPhl7ThLCyS_VUmPIjgwcoY2Zh4IdSYw1Re2qT0c0Cj9EI1zJwezgqS8qtONDS_NhOsb3FFvPrH-8V8sgBgcZpEV3Xwp8kbHFa94jOptBGKXOB23u-iUf1G5ZNAR9OUtpIf9y7NISus_O8UZ118AFzLZoIgV2FC7q8WmuBGDIiZNOHYFUC53aIvoZNBs3flk6ERZxuIfD5Ngsauj3IStv",
+      "birthDate": "1966-01-10",
+      "stateOfOrigin": "Sokoto State",
+      "is_active": true,
+      "currentPosition": "Senator, Sokoto South",
+      "currentParty": "PDP",
+      "bioNarrative": "Aminu Waziri Tambuwal is a Senator representing Sokoto South Senatorial District. He served as the Governor of Sokoto State from 2015 to 2023. Previously, he served as the 10th Speaker of the House of Representatives of Nigeria from 2011 to 2015.",
+      "educationalBackground": [
+        {
+          "degree": "Bachelor of Laws (LL.B)",
+          "institution": "Usmanu Danfodiyo University, Sokoto",
+          "year": "1991"
+        }
+      ],
+      "professionalBackground": [
+        {
+          "role": "Public Relations Officer",
+          "organization": "Nigerian Bar Association",
+          "yearRange": "1996 - 1998"
+        },
+        {
+          "role": "Legal Practitioner",
+          "organization": "Tambuwal & Co Partners",
+          "yearRange": "1992 - 1999"
+        }
+      ],
+      "electoralHistory": [
+        {
+          "year": 2023,
+          "type": "Senatorial",
+          "state": "Sokoto State",
+          "constituency": "Sokoto South",
+          "party": "PDP",
+          "result": "WON",
+          "votesReceived": 100860,
+          "wasChallenged": false,
+          "sourceUrl": "https://inecnigeria.org/sokoto-south-2023",
+          "sourceDate": "2023-03-02"
+        },
+        {
+          "year": 2019,
+          "type": "Gubernatorial",
+          "state": "Sokoto State",
+          "party": "PDP",
+          "result": "WON",
+          "votesReceived": 512002,
+          "wasChallenged": true,
+          "tribunalOutcome": "Tribunal and Court of Appeal declared Tambuwal winner by 342 margin.",
+          "sourceUrl": "https://inecnigeria.org/sokoto-guber-2019",
+          "sourceDate": "2019-03-24"
+        },
+        {
+          "year": 2015,
+          "type": "Gubernatorial",
+          "state": "Sokoto State",
+          "party": "APC",
+          "result": "WON",
+          "votesReceived": 647609,
+          "wasChallenged": false,
+          "sourceUrl": "https://inecnigeria.org/sokoto-guber-2015",
+          "sourceDate": "2015-04-12"
+        }
+      ],
+      "primaryHistory": [
+        {
+          "party": "PDP",
+          "date": "2022-05-28",
+          "type": "Indirect",
+          "outcome": "CONTESTED",
+          "wasChallenged": false,
+          "wasSubstituted": false,
+          "sourceUrl": "https://pdp.ng/presidential-primaries"
+        }
+      ],
+      "partyHistory": [
+        {
+          "partyName": "Peoples Democratic Party",
+          "partyCode": "PDP",
+          "fromYear": "2018",
+          "toYear": "Present",
+          "positionHeld": "Leader / Governor / Senator",
+          "sourceUrl": "https://pdp.ng"
+        },
+        {
+          "partyName": "All Progressives Congress",
+          "partyCode": "APC",
+          "fromYear": "2014",
+          "toYear": "2018",
+          "positionHeld": "Gubernatorial Candidate",
+          "reasonForLeaving": "Defected back to PDP",
+          "sourceUrl": "https://apc.com.ng"
+        }
+      ],
+      "legalRecord": [],
+      "sources": [
+        {
+          "name": "Independent National Electoral Commission",
+          "url": "https://inecnigeria.org",
+          "dateAccessed": "2026-06-08",
+          "fieldsContributed": [
+            "Electoral history"
+          ],
+          "confidence": "Primary"
+        }
+      ],
+      "completenessPercentage": 64,
+      "legalFlags": {
+        "efcc": false,
+        "sanctions": false,
+        "tribunal": false
+      },
+      "lastResearched": "2026-06-08"
+    },
+    {
+      "id": "obi-peter-gregory",
+      "fullName": "Peter Obi",
+      "aliases": [
+        "Okwute"
+      ],
+      "photoUrl": "https://secure.gravatar.com/avatar/none?d=mp",
+      "birthDate": "1961-07-19",
+      "stateOfOrigin": "Anambra State",
+      "is_active": false,
+      "currentPosition": "Former Governor, Anambra State",
+      "currentParty": "LP",
+      "bioNarrative": "Peter Gregory Obi is a businessman and politician who served as Governor of Anambra State from March to November 2006, February to May 2007, and June 2007 to March 2014. He was the Labor Party candidate for President of Nigeria in the 2023 election, mobilizing huge support across youths.",
+      "educationalBackground": [
+        {
+          "degree": "Bachelor of Arts in Philosophy",
+          "institution": "University of Nigeria, Nsukka",
+          "year": "1984"
+        }
+      ],
+      "professionalBackground": [
+        {
+          "role": "Chairman",
+          "organization": "Fidelity Bank PLC",
+          "yearRange": "1999 - 2005"
+        },
+        {
+          "role": "Managing Director",
+          "organization": "Next International Nigeria",
+          "yearRange": "1987 - 1999"
+        }
+      ],
+      "electoralHistory": [
+        {
+          "year": 2023,
+          "type": "Presidential",
+          "state": "National",
+          "party": "LP",
+          "result": "LOST",
+          "votesReceived": 6101533,
+          "totalVotesCast": 24965218,
+          "wasChallenged": true,
+          "tribunalOutcome": "Challenged results; petitioned CCT/Tribunal. Case concluded in Supreme Court.",
+          "sourceUrl": "https://inecnigeria.org/presidential-results-2023",
+          "sourceDate": "2023-03-01"
+        },
+        {
+          "year": 2010,
+          "type": "Gubernatorial",
+          "state": "Anambra State",
+          "party": "APGA",
+          "result": "WON",
+          "votesReceived": 97843,
+          "wasChallenged": false,
+          "sourceUrl": "https://inecnigeria.org",
+          "sourceDate": "2010-02-07"
+        }
+      ],
+      "primaryHistory": [],
+      "partyHistory": [
+        {
+          "partyName": "Labor Party",
+          "partyCode": "LP",
+          "fromYear": "2022",
+          "toYear": "Present",
+          "positionHeld": "Presidential Candidate",
+          "sourceUrl": "https://laborparty.org.ng"
+        },
+        {
+          "partyName": "Peoples Democratic Party",
+          "partyCode": "PDP",
+          "fromYear": "2014",
+          "toYear": "2022",
+          "positionHeld": "Vice Presidential Candidate (2019)",
+          "reasonForLeaving": "Resigned due to party structural friction",
+          "sourceUrl": "https://pdp.ng"
+        },
+        {
+          "partyName": "All Progressives Grand Alliance",
+          "partyCode": "APGA",
+          "fromYear": "2002",
+          "toYear": "2014",
+          "positionHeld": "Governor",
+          "reasonForLeaving": "Resigned to join PDP",
+          "sourceUrl": "https://apga.org.ng"
+        }
+      ],
+      "legalRecord": [],
+      "sources": [
+        {
+          "name": "LP Official Portal",
+          "url": "https://laborparty.org.ng",
+          "dateAccessed": "2026-06-08",
+          "fieldsContributed": [
+            "Profile narrative"
+          ],
+          "confidence": "Secondary"
+        }
+      ],
+      "completenessPercentage": 92,
+      "legalFlags": {
+        "efcc": false,
+        "sanctions": false,
+        "tribunal": true
+      },
+      "lastResearched": "2026-06-07"
+    },
+    {
+      "id": "sanwo-olu-babajide",
+      "fullName": "Babajide Sanwo-Olu",
+      "aliases": [
+        "Sanwo-Eko"
+      ],
+      "photoUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCTQoI-45dwuQ4WeivSwd1cy1TxRsSjXb08D0A0vMCvLv7085NzOO5FBr5_6MVXkDcwthaOc8OXyyg05zonprvsnJ2wlPDOuVjrxnaN4RsxrUn7Q7SXcb8hGCnihAGOqlBWBMsbXDNF-QCJUYuRkAVe6FrpL_mH7hc6whGWQ64Zhl7b0SeQnoDCfWF8Y5kLP-o_vCN3RQi-0F3epedCHWZcrMKrGnu-5nm8RFIFCG5pQaL_bd8RI_Pq4CTB2yPCKEmZR1iBqYlpESR1",
+      "birthDate": "1965-06-25",
+      "stateOfOrigin": "Lagos State",
+      "is_active": true,
+      "currentPosition": "Governor, Lagos State",
+      "currentParty": "APC",
+      "bioNarrative": "Babajide Olusola Sanwo-Olu is a Nigerian politician and the current Governor of Lagos State. He became governor in 2019 on the platform of the All Progressives Congress. He is deeply focused on metropolitan transit and infrastructural developments.",
+      "educationalBackground": [
+        {
+          "degree": "MBA",
+          "institution": "University of Lagos (UNILAG)",
+          "year": "2001"
+        },
+        {
+          "degree": "BSc in Surveying",
+          "institution": "University of Lagos (UNILAG)",
+          "year": "1989"
+        }
+      ],
+      "professionalBackground": [
+        {
+          "role": "MD/CEO",
+          "organization": "Lagos State Development and Property Corporation (LSDPC)",
+          "yearRange": "2016 - 2018"
+        },
+        {
+          "role": "Commissioner",
+          "organization": "Lagos State Ministry of Establishments",
+          "yearRange": "2007 - 2015"
+        }
+      ],
+      "electoralHistory": [
+        {
+          "year": 2023,
+          "type": "Gubernatorial",
+          "state": "Lagos State",
+          "party": "APC",
+          "result": "WON",
+          "votesReceived": 762134,
+          "wasChallenged": true,
+          "tribunalOutcome": "Court of Appeal affirmed Victory in November 2023.",
+          "sourceUrl": "https://inecnigeria.org/lagos-results-2023",
+          "sourceDate": "2023-03-20"
+        },
+        {
+          "year": 2019,
+          "type": "Gubernatorial",
+          "state": "Lagos State",
+          "party": "APC",
+          "result": "WON",
+          "votesReceived": 739445,
+          "wasChallenged": false,
+          "sourceUrl": "https://inecnigeria.org/lagos-results-2019",
+          "sourceDate": "2019-03-11"
+        }
+      ],
+      "primaryHistory": [],
+      "partyHistory": [
+        {
+          "partyName": "All Progressives Congress",
+          "partyCode": "APC",
+          "fromYear": "2013",
+          "toYear": "Present",
+          "positionHeld": "Governor",
+          "sourceUrl": "https://apc.com.ng"
+        }
+      ],
+      "legalRecord": [],
+      "sources": [
+        {
+          "name": "Lagos State Govt Portal",
+          "url": "https://lagosstate.gov.ng",
+          "dateAccessed": "2026-06-08",
+          "fieldsContributed": [
+            "Career timeline"
+          ],
+          "confidence": "Primary"
+        }
+      ],
+      "completenessPercentage": 94,
+      "legalFlags": {
+        "efcc": false,
+        "sanctions": false,
+        "tribunal": false
+      },
+      "lastResearched": "2026-06-08"
+    },
+    {
+      "id": "wike-nyesom-ezebunwo",
+      "fullName": "Nyesom Wike",
+      "aliases": [
+        "Wike Ezebunwo"
+      ],
+      "photoUrl": "https://secure.gravatar.com/avatar/none?d=mp",
+      "birthDate": "1967-12-13",
+      "stateOfOrigin": "Rivers State",
+      "is_active": true,
+      "currentPosition": "Minister of FCT",
+      "currentParty": "PDP",
+      "bioNarrative": "Nyesom Ezenwo Wike is a Nigerian politician and lawyer who is the Minister of the Federal Capital Territory. He previously served as the Governor of Rivers State from 2015 to 2023. He is highly vocal and influential in political coalitions.",
+      "educationalBackground": [
+        {
+          "degree": "Bachelor of Laws (LL.B)",
+          "institution": "Rivers State University of Science and Technology",
+          "year": "1997"
+        }
+      ],
+      "professionalBackground": [
+        {
+          "role": "Partner",
+          "organization": "Wike & Associates Chambers",
+          "yearRange": "1998 - 2003"
+        }
+      ],
+      "electoralHistory": [
+        {
+          "year": 2019,
+          "type": "Gubernatorial",
+          "state": "Rivers State",
+          "party": "PDP",
+          "result": "WON",
+          "votesReceived": 886264,
+          "wasChallenged": true,
+          "tribunalOutcome": "Tribunal dismissed challengers filings.",
+          "sourceUrl": "https://inecnigeria.org/rivers-2019",
+          "sourceDate": "2019-03-12"
+        },
+        {
+          "year": 2015,
+          "type": "Gubernatorial",
+          "state": "Rivers State",
+          "party": "PDP",
+          "result": "WON",
+          "votesReceived": 1029102,
+          "wasChallenged": true,
+          "tribunalOutcome": "Supreme Court confirmed victory in Jan 2016.",
+          "sourceUrl": "https://inecnigeria.org/rivers-2015",
+          "sourceDate": "2015-04-13"
+        }
+      ],
+      "primaryHistory": [],
+      "partyHistory": [
+        {
+          "partyName": "Peoples Democratic Party",
+          "partyCode": "PDP",
+          "fromYear": "1999",
+          "toYear": "Present",
+          "positionHeld": "Governor / Minister of FCT",
+          "sourceUrl": "https://pdp.ng"
+        }
+      ],
+      "legalRecord": [],
+      "sources": [
+        {
+          "name": "PDP Official Portal",
+          "url": "https://pdp.ng",
+          "dateAccessed": "2026-06-08",
+          "fieldsContributed": [
+            "Career milestones"
+          ],
+          "confidence": "Secondary"
+        }
+      ],
+      "completenessPercentage": 62,
+      "legalFlags": {
+        "efcc": false,
+        "sanctions": false,
+        "tribunal": true
+      },
+      "lastResearched": "2026-06-05"
+    },
+    {
+      "id": "fintiri",
+      "fullName": "Ahmadu Umaru Fintiri",
+      "aliases": [
+        "Fresh Air",
+        "Right Honourable Ahmadu Umaru Fintiri",
+        "Ahmadu Fintiri"
+      ],
+      "photoUrl": "https://secure.gravatar.com/avatar/fintiri?d=mp",
+      "birthDate": "1967-10-27",
+      "stateOfOrigin": "Adamawa State",
+      "is_active": true,
+      "currentPosition": "Governor of Adamawa State",
+      "currentParty": "PDP",
+      "bioNarrative": "Ahmadu Umaru Fintiri is a Nigerian politician and the current Governor of Adamawa State. He served as the Speaker of the Adamawa State House of Assembly and was acting Governor of Adamawa State in 2014. He was elected Governor in 2019 and re-elected for a second term in 2023 under the platform of the People's Democratic Party (PDP).",
+      "educationalBackground": [
+        {
+          "degree": "Bachelor of Arts (Hons) in History",
+          "institution": "University of Maiduguri",
+          "year": "1992"
+        },
+        {
+          "degree": "Post-graduate Diploma in Policy and Strategic Studies",
+          "institution": "University of Maiduguri",
+          "year": "2004"
+        }
+      ],
+      "professionalBackground": [
+        {
+          "role": "Member of the House of Assembly",
+          "organization": "Adamawa State House of Assembly",
+          "yearRange": "2007 - 2015"
+        },
+        {
+          "role": "Speaker",
+          "organization": "Adamawa State House of Assembly",
+          "yearRange": "2014"
+        },
+        {
+          "role": "Acting Governor",
+          "organization": "Adamawa State Government",
+          "yearRange": "2014"
+        },
+        {
+          "role": "Executive Governor",
+          "organization": "Adamawa State Government",
+          "yearRange": "2019 - Present"
+        }
+      ],
+      "electoralHistory": [
+        {
+          "year": 2019,
+          "type": "Gubernatorial",
+          "state": "Adamawa",
+          "party": "PDP",
+          "result": "WON",
+          "votesReceived": 371014,
+          "totalVotesCast": 869000,
+          "wasChallenged": true,
+          "tribunalOutcome": "The election petition tribunal and subsequently the Supreme Court affirmed Ahmadu Fintiri as the duly elected governor of Adamawa State."
+        },
+        {
+          "year": 2023,
+          "type": "Gubernatorial",
+          "state": "Adamawa",
+          "party": "PDP",
+          "result": "WON",
+          "votesReceived": 430861,
+          "totalVotesCast": 847000,
+          "wasChallenged": true,
+          "tribunalOutcome": "The Supreme Court dismissed the appeal of Aisha 'Binani' Dahiru of the APC, declaring Fintiri the validly elected governor."
+        }
+      ],
+      "primaryHistory": [
+        {
+          "year": 2018,
+          "party": "PDP",
+          "position": "Gubernatorial Candidate",
+          "result": "WON"
+        },
+        {
+          "year": 2022,
+          "party": "PDP",
+          "position": "Gubernatorial Candidate",
+          "result": "WON"
+        }
+      ],
+      "partyHistory": [
+        {
+          "partyName": "People's Democratic Party",
+          "partyCode": "PDP",
+          "fromYear": "2007",
+          "toYear": "Present",
+          "positionHeld": "Governor, Member",
+          "reasonForLeaving": "",
+          "sourceUrl": "https://pdp.ng"
+        }
+      ],
+      "legislativeRecord": {
+        "sessionsAttended": null,
+        "sessionsExpected": null,
+        "billsPassed": null,
+        "committeesList": [
+          "House Committee on Works",
+          "House Committee on Education"
+        ],
+        "billsSponsored": [],
+        "sourceUrl": ""
+      },
+      "legalRecord": [
+        {
+          "type": "efcc",
+          "title": "Alleged N2.9 Billion Money Laundering Investigation",
+          "description": "Investigated by the Economic and Financial Crimes Commission (EFCC) for alleged corruption and money laundering during his brief tenure as Acting Governor of Adamawa State in 2014.",
+          "caseNumber": "FHC/S/2016",
+          "courtOrAgency": "Federal High Court",
+          "dateInitiated": "2016-06-30",
+          "status": "ongoing",
+          "outcomeDescription": "Arraigned and granted bail. Case became dormant and was not pursued to a conviction, allowing him to contest subsequent elections.",
+          "sourceUrl": "https://www.premiumtimesng.com/",
+          "sourceDate": "2016",
+          "confidence": "Secondary"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://wikidata.org",
+          "dateAccessed": "2026-06-08",
+          "fieldsContributed": [
+            "Career"
+          ],
+          "confidence": "Primary"
+        },
+        {
+          "name": "Everypolitician",
+          "url": "https://everypolitician.org/nigeria/",
+          "dateAccessed": "2026-06-08",
+          "fieldsContributed": [
+            "Legislative"
+          ],
+          "confidence": "Primary"
+        },
+        {
+          "name": "OpenSanctions",
+          "url": "https://opensanctions.org",
+          "dateAccessed": "2026-06-08",
+          "fieldsContributed": [
+            "Sanctions"
+          ],
+          "confidence": "Primary"
+        },
+        {
+          "name": "INEC Cache",
+          "url": "internal",
+          "dateAccessed": "2026-06-08",
+          "fieldsContributed": [
+            "Elections"
+          ],
+          "confidence": "Secondary"
+        }
+      ],
+      "completenessPercentage": 90,
+      "legalFlags": {
+        "efcc": true,
+        "sanctions": false,
+        "tribunal": true
+      },
+      "lastResearched": "2026-06-09"
+    }
+  ]
+}
